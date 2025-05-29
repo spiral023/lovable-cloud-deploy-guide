@@ -23,7 +23,7 @@ Für den erfolgreichen Aufbau und Betrieb der Anwendung benötigen Sie:
 
 -   **Cloudflare-Account (Free Tier)** mit einer eingerichteten Domain (Wildcard- oder Subdomain-Eintrag).
     
--   **Lovable-Projekt** initialisiert via `npm init lovable` oder vergleichbarem Boilerplate.
+-   **Lovable-Projekt**
 
 -   **VS Code** (https://code.visualstudio.com/download)
     
